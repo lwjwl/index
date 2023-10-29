@@ -1,5 +1,5 @@
 <?php
-
+//
 /* Files app 0.5.5
 www.files.gallery | www.files.gallery/docs/ | www.files.gallery/docs/license/
 ---
